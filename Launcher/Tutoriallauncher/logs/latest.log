@@ -1,0 +1,265 @@
+[01:40:16] [Client thread/INFO]: Setting user: Tutorialuser
+[01:40:16] [Client thread/INFO]: (Session ID is token:aeef7bc935f9420eb6314dea7ad7ele5:N/A)
+[01:40:17] [Client thread/INFO]: LWJGL Version: 2.9.4
+[01:40:17] [Client thread/INFO]: Reloading ResourceManager: Default
+[01:40:17] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[01:40:17] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[01:40:17] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[01:40:17] [Thread-6/INFO]: OpenAL initialized.
+[01:40:18] [Sound Library Loader/INFO]: Sound engine started
+[01:40:18] [Client thread/INFO]: Created: 512x512 textures-atlas
+[01:40:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[01:40:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[01:40:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[01:40:24] [Server thread/INFO]: Starting integrated minecraft server version 1.8.8
+[01:40:24] [Server thread/INFO]: Generating keypair
+[01:40:24] [Server thread/INFO]: Preparing start region for level 0
+[01:40:24] [Server thread/INFO]: Changing view distance to 32, from 10
+[01:40:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[01:40:25] [Server thread/INFO]: Tutorialuser[local:E:4d23d91c] logged in with entity id 216 at (16.1046245311988, 85.31319954779147, 568.6144637530637)
+[01:40:25] [Server thread/INFO]: Tutorialuser joined the game
+[01:40:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2996ms behind, skipping 59 tick(s)
+[01:40:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.bat.takeoff
+[01:40:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.say
+[01:40:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[01:40:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[01:40:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[01:40:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.game.creative
+[01:40:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.say
+[01:40:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[01:40:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[01:40:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.say
+[01:40:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
+[01:40:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[01:40:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[01:40:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[01:40:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[01:40:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.say
+[01:40:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[01:40:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[01:40:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.skeleton.step
+[01:40:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.hostile.swim.splash
+[01:40:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.skeleton.step
+[01:40:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[01:40:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
+[01:40:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.say
+[01:40:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[01:40:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.skeleton.step
+[01:40:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[01:40:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[01:40:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[01:40:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[01:40:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.say
+[01:40:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[01:40:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[01:40:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[01:40:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
+[01:40:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[01:40:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.spider.step
+[01:40:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.spider.say
+[01:40:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[01:40:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[01:40:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.bat.idle
+[01:40:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.say
+[01:40:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.say
+[01:40:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[01:40:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[01:40:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.skeleton.say
+[01:40:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[01:40:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.gravel
+[01:40:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:40:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:48] [Server thread/INFO]: Tutorialuser has just earned the achievement [Taking Inventory]
+[01:40:48] [Client thread/INFO]: [CHAT] Tutorialuser has just earned the achievement [Taking Inventory]
+[01:40:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.stone
+[01:40:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.say
+[01:40:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.skeleton.step
+[01:40:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.spider.say
+[01:40:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.skeleton.step
+[01:40:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.say
+[01:40:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.say
+[01:40:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.skeleton.say
+[01:40:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.skeleton.step
+[01:40:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.bat.idle
+[01:40:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.skeleton.step
+[01:40:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[01:40:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[01:40:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.stone
+[01:40:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.say
+[01:40:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.hurt
+[01:40:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.hurt
+[01:40:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[01:40:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.spider.say
+[01:40:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[01:40:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.hurt
+[01:40:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[01:40:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.hurt
+[01:40:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[01:40:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.hurt
+[01:40:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.say
+[01:40:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[01:40:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.hurt
+[01:40:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[01:40:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[01:40:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.hurt
+[01:40:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.say
+[01:40:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:40:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[01:41:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.say
+[01:41:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:41:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:41:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:41:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:41:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[01:41:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:41:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.tnt.primed
+[01:41:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.stone
+[01:41:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:41:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.stone
+[01:41:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:41:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.say
+[01:41:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[01:41:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.spider.say
+[01:41:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:41:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:41:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[01:41:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[01:41:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.say
+[01:41:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:41:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:41:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:41:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.death
+[01:41:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.death
+[01:41:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.explode
+[01:41:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.say
+[01:41:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:41:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:41:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
+[01:41:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
+[01:41:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
+[01:41:07] [Server thread/INFO]: Tutorialuser has just earned the achievement [Getting Wood]
+[01:41:07] [Client thread/INFO]: [CHAT] Tutorialuser has just earned the achievement [Getting Wood]
+[01:41:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:random.pop
+[01:41:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.hostile.hurt.fall.small
+[01:41:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.gravel
+[01:41:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.zombie.step
+[01:41:08] [Server thread/INFO]: Saving and pausing game...
+[01:41:08] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[01:41:08] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[01:41:08] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[01:41:09] [Client thread/INFO]: Stopping!
+[01:41:09] [Client thread/INFO]: SoundSystem shutting down...
+[01:41:09] [Server thread/INFO]: Stopping server
+[01:41:09] [Server thread/INFO]: Saving players
+[01:41:09] [Server thread/INFO]: Saving worlds
+[01:41:09] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[01:41:09] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[01:41:09] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[01:41:09] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

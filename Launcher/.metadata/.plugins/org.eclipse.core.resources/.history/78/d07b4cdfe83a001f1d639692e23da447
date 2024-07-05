@@ -1,0 +1,33 @@
+package me.quick.tutorial.util;
+
+// Credit to Eric Golde. Check him out on YouTube, he also has awesome client tutorials!
+
+import java.io.File;
+
+public enum OSHelper {
+	
+    WINDOWS("AppData" + File.separator + "Roaming" + File.separator + ".minecraft\" + File.separator),
+    MAC("Library" + File.separator + "Application Support" + File.separator + "minecraft" + File.separator),
+    LINUX(".minecraft" + File.separator);
+
+    private final String mc;
+
+    private OSHelper(String mc) {
+        this.mc = mc;
+    }
+
+    public String getMc() {
+        return System.getProperty("user.home") + File.separator + this.mc;
+    }
+
+    public static OSHelper getOS() {
+        String currentOS = System.getProperty("os.name").toLowerCase();
+        if (currentOS.contains("win")) {
+            return WINDOWS;
+        } else if (currentOS.contains("mac")) {
+            return MAC;
+        } else {
+            return LINUX;
+        }
+    }
+}

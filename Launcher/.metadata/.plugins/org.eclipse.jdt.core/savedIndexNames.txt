@@ -1,0 +1,20 @@
+INDEX VERSION 1.131+C:\Users\yztim\OneDrive\デスクトップ\YuzuClient\Launcher\.metadata\.plugins\org.eclipse.jdt.core
+4186181894.index
+2620913344.index
+2898287317.index
+477262518.index
+4083427829.index
+306203694.index
+3284972235.index
+528503917.index
+484084108.index
+1901799727.index
+2124573845.index
+1865797976.index
+2946924934.index
+2874116486.index
+785219828.index
+2858254539.index
+1992574205.index
+1817792134.index
+2503439507.index
